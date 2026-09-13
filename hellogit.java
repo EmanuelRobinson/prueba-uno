@@ -27,5 +27,18 @@ git status -> para ver los diferentes estados por lo que ah pasado mi rama.
 
 este sera mi nuevo txt 2.
 
+Repaso rapido de lo que eh estado aprendiendo hasta ahora.
+--------------------------------------------------------------
+ni -> ".gitignore" para crear un nuevo archivo ni ".gitignore"
+
+git add -> prepara los cambios que deseamos que se guarden
+git status -> podemos visualizar que cosas se ah modificado o que cosas siguen pendientes.
+git commit -m "" -> sube y guarda los cambios que estamos realizando
+git log -> nos muestra el historial de commits con la hora que me hemos realizado los cambios.
+git diff -> si estamos modificando algo y todavia no queremos guardar podemos hacer una comparativa de los cambios que teniamos anterormente (comparar)
+git reset
+
+
+
 */
-println("New hellow git);
+println("New hellow git dskadaldaslkdakl");
