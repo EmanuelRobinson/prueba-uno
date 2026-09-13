@@ -35,10 +35,10 @@ git add -> prepara los cambios que deseamos que se guarden
 git status -> podemos visualizar que cosas se ah modificado o que cosas siguen pendientes.
 git commit -m "" -> sube y guarda los cambios que estamos realizando
 git log -> nos muestra el historial de commits con la hora que me hemos realizado los cambios.
-git diff -> si estamos modificando algo y todavia no queremos guardar podemos hacer una comparativa de los cambios que teniamos anterormente (comparar)
-git reset
-
-
+git diff -> si estamos modificando algo y todavia no queremos guardar podemos hacer una comparativa de 
+            los cambios que teniamos anterormente (comparar)
+git reset -> nos muestra cuales son los cambios que podemos aun retroceder a su estado antes de moficiarlos.
+git checkout -> retrocedemos todos los cambios que hemos modificado antes de guardar.
 
 */
 println("New hellow git dskadaldaslkdakl");
