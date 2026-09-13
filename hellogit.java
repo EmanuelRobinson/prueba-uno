@@ -25,6 +25,7 @@ git init -> para incializar mi proyecto dentro de git
 git branch -m main -> para cambiar la rama master a main la cual es la mas usada o comun por el nombre que tiene por defecto.
 git status -> para ver los diferentes estados por lo que ah pasado mi rama.
 
+este sera mi nuevo txt 2.
 
 */
 
