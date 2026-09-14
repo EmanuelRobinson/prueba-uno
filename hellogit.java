@@ -51,5 +51,14 @@ para mañana revisar el video de mourodev para visualizar mejor el comando cread
 
 corregir el blog de notas y subir todo esto a github. jeje. gud nais.
 
+git reset --hard -> elimina y coloca el HEAD donde le hemos asignado.
+git reflog -> historial completo de interacciones que hemos hecho en nuestro git.
+
+git tag -> etiqueta todos en minusculas y con lo mucho agregar guines bajos / tambien se puede ver cuantos tags tenemos diponibles o hemos realizado
+git add . -> para colocarlo de una ves si estar mencionando el archivo especifico si tenemos muchos que queremos agregar.
+
+
+
+
 */
 println("New hellow git dskadaldaslkdakl");
