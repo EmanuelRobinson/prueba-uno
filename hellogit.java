@@ -40,5 +40,16 @@ git diff -> si estamos modificando algo y todavia no queremos guardar podemos ha
 git reset -> nos muestra cuales son los cambios que podemos aun retroceder a su estado antes de moficiarlos.
 git checkout -> retrocedemos todos los cambios que hemos modificado antes de guardar.
 
+
+Repaso para el dia de mñn
+
+Corregion de error de merge al crear un commit en una rama flotante la cual se le asigno una rama para luego volver a unirla al main.
+comandos nuevos:
+
+git reflog -> es como ver todos los cambios realizados y commits en una lista corta sin mencionar las fechas y horas creadas.
+para mañana revisar el video de mourodev para visualizar mejor el comando creado de tree pero tambien checar mejor el concepto y repasar algun codigo pendiente que no se llego a revisar o anotar.
+
+corregir el blog de notas y subir todo esto a github. jeje. gud nais.
+
 */
 println("New hellow git dskadaldaslkdakl");
