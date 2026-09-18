@@ -60,7 +60,8 @@ git add . -> para colocarlo de una ves si estar mencionando el archivo especific
 interesante acabo de ver como crear nuevas ramas y como cambiarme a la rama que estoy trabajando.
 
 git branch "nombre de la rama sin comillas" -> se crea una nueva rama con el nombre que sea de nuestro gusto
-git switch "nombre de la rama sin comillas" -> para cambiar a la rama que deseemos mencionando el nombre jiji dependiendo de como cambiemos se aplicara a los cambios.
+git switch "nombre de la rama sin comillas" -> para cambiar a la rama que deseemos mencionando el nombre jiji dependiendo de como cambiemos se aplicara a los cambios, se usa mayormente de manera local.
+
 
 */
 println("New hellow git dskadaldaslkdakl");
