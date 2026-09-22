@@ -63,6 +63,6 @@ git branch "nombre de la rama sin comillas" -> se crea una nueva rama con el nom
 git switch "nombre de la rama sin comillas" -> para cambiar a la rama que deseemos mencionando el nombre jiji dependiendo de como cambiemos se aplicara a los cambios, se usa mayormente de manera local.
 
 esto son nuevos apuntes subideos a un repo
-
+aca ya salimos de ramita
 */
 println("New hellow git dskadaldaslkdakl");
