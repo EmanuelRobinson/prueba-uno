@@ -57,9 +57,17 @@ git reflog -> historial completo de interacciones que hemos hecho en nuestro git
 git tag -> etiqueta todos en minusculas y con lo mucho agregar guines bajos / tambien se puede ver cuantos tags tenemos diponibles o hemos realizado
 git add . -> para colocarlo de una ves si estar mencionando el archivo especifico si tenemos muchos que queremos agregar.
 
+interesante acabo de ver como crear nuevas ramas y como cambiarme a la rama que estoy trabajando.
 
+git branch "nombre de la rama sin comillas" -> se crea una nueva rama con el nombre que sea de nuestro gusto
+git switch "nombre de la rama sin comillas" -> para cambiar a la rama que deseemos mencionando el nombre jiji dependiendo de como cambiemos se aplicara a los cambios, se usa mayormente de manera local.
 
+<<<<<<< HEAD
 este es un texto escrito en ramita.
 
+=======
+esto son nuevos apuntes subideos a un repo
+aca ya salimos de ramita
+>>>>>>> main
 */
 println("New hellow git dskadaldaslkdakl");
