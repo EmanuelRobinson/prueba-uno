@@ -69,5 +69,8 @@ git merge -> es para juntar los cambios realizados de otra rama a la rama princi
 aca ya salimos de ramita
 
 esta cambio va para el ramita
+
+estos cambios van a ir para ramita sii ramita lo recepciona bacan.
+
 */
 println("New hellow git dskadaldaslkdakl");
