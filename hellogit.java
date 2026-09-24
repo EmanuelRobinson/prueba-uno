@@ -62,11 +62,19 @@ interesante acabo de ver como crear nuevas ramas y como cambiarme a la rama que 
 git branch "nombre de la rama sin comillas" -> se crea una nueva rama con el nombre que sea de nuestro gusto
 git switch "nombre de la rama sin comillas" -> para cambiar a la rama que deseemos mencionando el nombre jiji dependiendo de como cambiemos se aplicara a los cambios, se usa mayormente de manera local.
 
+<<<<<<< HEAD
+este es un texto escrito en ramita.
+
+=======
 esto son nuevos apuntes subideos a un repo
 git merge -> es para juntar los cambios realizados de otra rama a la rama principal o la que deseemos.
 aca ya salimos de ramita
+<<<<<<< HEAD
 
 esta cambio va para el ramita
 
+=======
+>>>>>>> main
+>>>>>>> ramita
 */
 println("New hellow git dskadaldaslkdakl");
