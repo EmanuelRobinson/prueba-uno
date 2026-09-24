@@ -65,5 +65,8 @@ git switch "nombre de la rama sin comillas" -> para cambiar a la rama que deseem
 esto son nuevos apuntes subideos a un repo
 git merge -> es para juntar los cambios realizados de otra rama a la rama principal o la que deseemos.
 aca ya salimos de ramita
+
+esta cambio va para el ramita
+
 */
 println("New hellow git dskadaldaslkdakl");
