@@ -63,6 +63,7 @@ git branch "nombre de la rama sin comillas" -> se crea una nueva rama con el nom
 git switch "nombre de la rama sin comillas" -> para cambiar a la rama que deseemos mencionando el nombre jiji dependiendo de como cambiemos se aplicara a los cambios, se usa mayormente de manera local.
 
 este es un texto escrito en ramita.
+<<<<<<< HEAD
 
 esto son nuevos apuntes subideos a un repo
 git merge -> es para juntar los cambios realizados de otra rama a la rama principal o la que deseemos.
@@ -72,5 +73,7 @@ esta cambio va para el ramita
 
 estos cambios van a ir para ramita sii ramita lo recepciona bacan.
 
+=======
+>>>>>>> ramita
 */
 println("New hellow git dskadaldaslkdakl");
